@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42571'
     url: http://www.gutenberg.org/2009/agents/42571
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44102#School-Credit-for-Home-Work
 gutenberg_issued: '2013-11-04'
 gutenberg_type: Text
 identifiers:
