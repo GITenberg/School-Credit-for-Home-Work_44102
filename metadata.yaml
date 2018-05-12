@@ -1,0 +1,27 @@
+_repo: School-Credit-for-Home-Work_44102
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44102-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Alderman, L. R. (Lewis Raymond)
+    alias: Alderman, Lewis Raymond
+    birthdate: 1872
+    deathdate: 1965
+    gutenberg_agent_id: '42571'
+    url: http://www.gutenberg.org/2009/agents/42571
+description: ''
+gutenberg_issued: '2013-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grading and marking (Students)'
+- !lcc 'LB'
+title: School Credit for Home Work
+url: http://www.gutenberg.org/ebooks/44102
